@@ -1,0 +1,14 @@
+# Large generated simulation outputs
+*.mat
+
+# Large archives generated from result files
+matlab_program_package.zip
+matlab_program_package_20VS0.zip
+
+# MATLAB autosave / temporary files
+*.asv
+*.m~
+
+# OS metadata
+Thumbs.db
+.DS_Store
